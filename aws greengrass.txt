@@ -1,0 +1,11 @@
+AWS Greengrass:
+Dev->https://docs.aws.amazon.com/greengrass/latest/developerguide/gg-dg.pdf
+API->https://docs.aws.amazon.com/greengrass/latest/apireference/gg-api.pdf
+sample->https://github.com/aws-samples/aws-greengrass-samples
+traffic light -> https://github.com/aws-samples/aws-greengrass-samples/tree/master/traffic-light-example-python
+
+Docker & Greengrass:
+https://docs.aws.amazon.com/greengrass/latest/developerguide/run-gg-in-docker-container.html
+
+Udemy AWS Essentials:
+https://www.udemy.com/course/linux-academy-aws-essentials-2019/learn/lecture/13741352#overview
